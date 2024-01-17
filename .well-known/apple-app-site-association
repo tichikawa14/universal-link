@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "KP6339RCD5.com.libes.development",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
